@@ -7,7 +7,13 @@ These are our implementations of the algorithms described in our bachelor report
 ## Requirements
 
 - Python 3.x
-- Required libraries: `gmpy2`, `sympy`, `numpy`, `matplotlib`
+- Required libraries: `gmpy2`, `sympy`, `numpy`, `matplotlib`, `rsa`
+
+You can install the required libraries using pip:
+
+```bash
+pip install gmpy2 sympy numpy matplotlib rsa
+```
 
 ## Running the Bleichenbacher Attack
 
